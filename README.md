@@ -23,9 +23,8 @@ I am 0x5BFA. formally I used a handle name named *onein528*. I use GitHub for fu
 
 ## Contact
 
-[![Discord](https://camo.githubusercontent.com/4d4aaf8201525ce15823a9d09c37ecbd84dfa70300a9b42c247dbe0a00d78388/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discordapp.com/users/926892915362521130)
-
-You can click one of those above.
+- Discord: [0x5BFA](https://discordapp.com/users/926892915362521130)
+- E-mail: onein528@outloook.com
 
 ## Stats
 
