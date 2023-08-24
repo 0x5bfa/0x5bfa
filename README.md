@@ -2,7 +2,6 @@
 
 ![image](https://github.com/0x5bfa/0x5bfa/assets/62196528/ac88c9ea-9c6b-401b-a5aa-05b63456b247)
 
-
 ## About Me
 
 I am 0x5BFA. formally I used a handle name *onein528*.
@@ -12,19 +11,25 @@ Currently, I'm a full time maintainer of [FluentHub](https://github.com/FluentHu
 
 In the future, I would like to become well versed in various fields, including the web and low-layer fields, and develop with other wonderful people at a certain global company.
 
-### C
+### Projects
 
-- [win32-commands](https://github.com/0x5bfa/win32-commands)
-- [win32-apps](https://github.com/0x5bfa/win32-apps)
-- [MsgTableFileGenerator](https://github.com/0x5bfa/MsgTableFileGenerator)
-- [REGFParser](https://github.com/0x5bfa/REGFParser)
-- [PEParser](https://github.com/0x5bfa/PEParser)
+- C: [win32-commands](https://github.com/0x5bfa/win32-commands)
+- C: [win32-apps](https://github.com/0x5bfa/win32-apps)
+- C: [MsgTableFileGenerator](https://github.com/0x5bfa/MsgTableFileGenerator)
+- C: [REGFParser](https://github.com/0x5bfa/REGFParser)
+- C: [PEParser](https://github.com/0x5bfa/PEParser)
+- C#: [RegistryValley](https://github.com/0x5bfa/RegistryValley)
+- C#: [FluentHub](https://github.com/FluentHub/FluentHub)
 
-### C#
+## Fields that I am well familiar with 
 
-- [RegistryValley](https://github.com/0x5bfa/RegistryValley)
-- [FluentHub](https://github.com/FluentHub/FluentHub)
-
+- Windows
+  - Windows Console Subsystem
+  - WinUI2 & WinUI3
+  - Win32
+  - DotNET
+  - C
+  - C#
 
 ## Contact
 
