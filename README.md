@@ -23,17 +23,20 @@ In the future, I would like to become well versed in various fields, including t
 
 ### Fields 
 
-- Windows
-  - UI Frameworks, API Frameworks, and Subsystems
-    - Windows Console Subsystem
-    - UWP Framework
-    - WinAppSdk Framework
-    - WinUI2 & WinUI3 
-    - Win32
-    - DotNET
-  - Languages
-    - C
-    - C#
+- OS
+  - Windows
+- UI Frameworks, API Frameworks, and Subsystems
+  - Windows Console Subsystem
+  - UWP Framework
+  - WinAppSdk Framework
+  - WinUI2 & WinUI3 
+  - Win32
+  - DotNET
+- Languages
+  - C
+  - C#
+- Specific skills
+  - Creating localized resource files ([MUI](https://en.wikipedia.org/wiki/Multilingual_User_Interface)) in C console software 
 
 ## Contact
 
