@@ -41,7 +41,9 @@ In the future, I would like to become well versed in various fields, including t
   - C#
   - XAML
 - Specific skills
-  - Creating localized resource files ([MUI](https://en.wikipedia.org/wiki/Multilingual_User_Interface)) in C console software 
+  - Creating localized resource files ([MUI](https://en.wikipedia.org/wiki/Multilingual_User_Interface)) in C console software
+  - Full-stack of UWP
+  - Full-stack of WinUI3/WinAppSdk
 
 ## Contact
 
