@@ -18,8 +18,8 @@ In the future, I would like to become well versed in various fields, including t
 - C: [MsgTableFileGenerator](https://github.com/0x5bfa/MsgTableFileGenerator) - Extract the MC file, which is the prototype of the MUI file, from the linked EXE file
 - C: [REGFParser](https://github.com/0x5bfa/REGFParser) - A parser of REGF binary format used in Windows Registry Hive file
 - C: [PEParser](https://github.com/0x5bfa/PEParser) - A parser of PE binary format used in Windows exe file
-- C#: [RegistryValley](https://github.com/0x5bfa/RegistryValley) - Redesigned Widows Registory editor
-- C#: [FluentHub](https://github.com/FluentHub/FluentHub) - The best GitHub client for Windows
+- C#/XAML: [RegistryValley](https://github.com/0x5bfa/RegistryValley) - Redesigned Widows Registory editor
+- C#/XAML: [FluentHub](https://github.com/FluentHub/FluentHub) - The best GitHub client for Windows
 
 ### Fields 
 
@@ -39,6 +39,7 @@ In the future, I would like to become well versed in various fields, including t
 - Languages
   - C
   - C#
+  - XAML
 - Specific skills
   - Creating localized resource files ([MUI](https://en.wikipedia.org/wiki/Multilingual_User_Interface)) in C console software 
 
