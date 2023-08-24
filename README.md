@@ -13,13 +13,13 @@ In the future, I would like to become well versed in various fields, including t
 
 ### Projects
 
-- C: [win32-commands](https://github.com/0x5bfa/win32-commands)
-- C: [win32-apps](https://github.com/0x5bfa/win32-apps)
-- C: [MsgTableFileGenerator](https://github.com/0x5bfa/MsgTableFileGenerator)
-- C: [REGFParser](https://github.com/0x5bfa/REGFParser)
-- C: [PEParser](https://github.com/0x5bfa/PEParser)
-- C#: [RegistryValley](https://github.com/0x5bfa/RegistryValley)
-- C#: [FluentHub](https://github.com/FluentHub/FluentHub)
+- C: [win32-commands](https://github.com/0x5bfa/win32-commands) - A group of commands whose behaviors and names are very similar to those of the cmd.exe using Win32API
+- C: [win32-apps](https://github.com/0x5bfa/win32-apps) - A group of commands that I made originally using Win32API
+- C: [MsgTableFileGenerator](https://github.com/0x5bfa/MsgTableFileGenerator) - Extract the MC file, which is the prototype of the MUI file, from the linked EXE file
+- C: [REGFParser](https://github.com/0x5bfa/REGFParser) - A parser of REGF binary format used in Windows Registry Hive file
+- C: [PEParser](https://github.com/0x5bfa/PEParser) - A parser of PE binary format used in Windows exe file
+- C#: [RegistryValley](https://github.com/0x5bfa/RegistryValley) - Redesigned Widows Registory editor
+- C#: [FluentHub](https://github.com/FluentHub/FluentHub) - The best GitHub client for Windows
 
 ### Fields 
 
