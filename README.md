@@ -21,15 +21,19 @@ In the future, I would like to become well versed in various fields, including t
 - C#: [RegistryValley](https://github.com/0x5bfa/RegistryValley)
 - C#: [FluentHub](https://github.com/FluentHub/FluentHub)
 
-## Fields that I am well familiar with 
+### Fields 
 
 - Windows
-  - Windows Console Subsystem
-  - WinUI2 & WinUI3
-  - Win32
-  - DotNET
-  - C
-  - C#
+  - UI Frameworks, API Frameworks, and Subsystems
+    - Windows Console Subsystem
+    - UWP Framework
+    - WinAppSdk Framework
+    - WinUI2 & WinUI3 
+    - Win32
+    - DotNET
+  - Languages
+    - C
+    - C#
 
 ## Contact
 
