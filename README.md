@@ -44,6 +44,8 @@ In the future, I would like to become well versed in various fields, including t
   - Creating localized resource files ([MUI](https://en.wikipedia.org/wiki/Multilingual_User_Interface)) in C console software
   - Full-stack of UWP
   - Full-stack of WinUI3/WinAppSdk
+  - Setting up Azure Build Pipeline
+  - Setting up GitHub Actions
 
 ## Contact
 
