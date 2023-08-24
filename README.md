@@ -25,6 +25,10 @@ In the future, I would like to become well versed in various fields, including t
 
 - OS
   - Windows
+- IDEs
+  - Atom
+  - Visual Studio Code
+  - Visual Studio 2022
 - UI Frameworks, API Frameworks, and Subsystems
   - Windows Console Subsystem
   - UWP Framework
