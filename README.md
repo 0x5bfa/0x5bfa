@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am 0x5BFA. formally I used a handle name *onein528*.
+Hi there, I am 0x5BFA.
 I code every day for the fun of building something that excites me and I am proficient in C and C# and have developed a lot of software as you can see below.
 
 Currently, I'm a full time maintainer of [FluentHub](https://github.com/FluentHub/FluentHub) and a enthusiastic code maintainer of [Files](https://github.com/files-community/files).
