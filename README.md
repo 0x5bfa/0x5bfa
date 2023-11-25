@@ -52,7 +52,6 @@ In the future, I would like to become well versed in various fields, including t
 ## Contact
 
 - Discord: [0x5BFA](https://discordapp.com/users/926892915362521130)
-- E-mail: onein528@outloook.com
 
 ## Stats
 
