@@ -11,7 +11,7 @@ I code every day for the fun of building something that excites me and I am prof
 
 Currently, I'm a full time maintainer of [FluentHub](https://github.com/FluentHub/FluentHub) and a enthusiastic code maintainer of [Files](https://github.com/files-community/files).
 
-In the future, I would like to become well versed in various fields, including the web and low-layer fields, and develop with other wonderful people at a certain global company.
+In the future, I would like to become well versed in various fields, including the web and low-layer fields, and develop with other wonderful people at a tech giant.
 
 ### Projects
 
