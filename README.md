@@ -21,7 +21,7 @@ In the future, I would like to become well versed in various fields, including t
 - C: [REGFParser](https://github.com/0x5bfa/REGFParser) - A parser of REGF binary format used in Windows Registry Hive file
 - C: [PEParser](https://github.com/0x5bfa/PEParser) - A parser of PE binary format used in Windows exe file
 - C#/XAML: [RegistryValley](https://github.com/0x5bfa/RegistryValley) - Redesigned Widows Registory editor
-- C#/XAML: [FluentHub](https://github.com/FluentHub/FluentHub) - The best GitHub client for Windows
+- C#/XAML: [FluentHub](https://github.com/0x5bfa/FluentHub) - The best GitHub client for Windows
 
 ### Fields 
 
