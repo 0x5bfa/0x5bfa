@@ -55,4 +55,6 @@ In the future, I would like to become well versed in various fields, including t
 
 ## Stats
 
-[![0x5bfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x5bfa&show_icons=true&bg_color=00000000)](https://github.com/0x5bfa)
+![0x5bfa's profile](https://github-readme-stats.vercel.app/api?username=0x5bfa&show_icons=true&bg_color=00000000)
+
+![0x5bfa's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x5bfa&layout=compact&bg_color=00000000)
