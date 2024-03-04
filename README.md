@@ -58,3 +58,10 @@ In the future, I would like to become well versed in various fields, including t
 ![0x5bfa's profile](https://github-readme-stats.vercel.app/api?username=0x5bfa&show_icons=true&bg_color=00000000)
 
 ![0x5bfa's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x5bfa&layout=compact&bg_color=00000000)
+
+## FluentHub
+
+[Visit the repo!](https://github.com/0x5bfa/FluentHub)
+
+Screenshot:
+![image](https://github.com/0x5bfa/0x5bfa/assets/62196528/7e28de4c-f28c-43b6-9708-68a12c4bbfbc)
