@@ -7,15 +7,14 @@
 ## About Me
 
 Hi there, I am 0x5BFA.
-I code every day for the fun of building something that excites me and I am proficient in C and C# and have developed a lot of software as you can see below.
-
-Currently, I'm the owner and a maintainer of [FluentHub](https://github.com/0x5bfa/FluentHub) and a developer team member of [Files](https://github.com/files-community/files).
-
-In the future, I would like to become well versed in various fields, including the web and low-layer fields, and develop with wonderful people at a tech giant.
+I code every day for the fun of building something that excites me and I am proficient in C and C# and have developed a lot of software as you can see below. Currently, I'm the owner and a maintainer of [FluentHub](https://github.com/0x5bfa/FluentHub) and a developer team member of [Files](https://github.com/files-community/files). But, in the future, I would like to become well versed in various fields, including the web and low-layer fields, and develop with wonderful people at a tech giant.
 
 - Discord: [0x5BFA](https://discordapp.com/users/926892915362521130)
 - Outlook: onein528@outlook.com
-### Projects
+
+### Primary Projects
+
+<details><summary>Open to see</summary><div>
 
 - C: [win32-commands](https://github.com/0x5bfa/win32-commands) - A group of commands whose behaviors are almost the same to those of the cmd.exe using Win32API
 - C: [win32-apps](https://github.com/0x5bfa/win32-apps) - A group of commands that I made originally using Win32API
@@ -24,6 +23,8 @@ In the future, I would like to become well versed in various fields, including t
 - C: [PEParser](https://github.com/0x5bfa/PEParser) - A parser of PE binary format used in Windows exe file
 - C#/XAML: [RegistryValley](https://github.com/0x5bfa/RegistryValley) - Redesigned Widows Registory editor
 - C#/XAML: [FluentHub](https://github.com/0x5bfa/FluentHub) - The best GitHub client for Windows
+
+</div></details>
 
 ## Fields
 
