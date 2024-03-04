@@ -13,6 +13,8 @@ Currently, I'm the owner and a maintainer of [FluentHub](https://github.com/0x5b
 
 In the future, I would like to become well versed in various fields, including the web and low-layer fields, and develop with wonderful people at a tech giant.
 
+- Discord: [0x5BFA](https://discordapp.com/users/926892915362521130)
+- Outlook: onein528@outlook.com
 ### Projects
 
 - C: [win32-commands](https://github.com/0x5bfa/win32-commands) - A group of commands whose behaviors are almost the same to those of the cmd.exe using Win32API
@@ -23,7 +25,9 @@ In the future, I would like to become well versed in various fields, including t
 - C#/XAML: [RegistryValley](https://github.com/0x5bfa/RegistryValley) - Redesigned Widows Registory editor
 - C#/XAML: [FluentHub](https://github.com/0x5bfa/FluentHub) - The best GitHub client for Windows
 
-### Fields 
+## Fields
+
+<details><summary>Open to see</summary><div>
 
 - OS
   - Windows
@@ -49,14 +53,11 @@ In the future, I would like to become well versed in various fields, including t
   - Setting up Azure Build Pipeline
   - Setting up GitHub Actions
 
-## Contact
-
-- Discord: [0x5BFA](https://discordapp.com/users/926892915362521130)
+</div></details>
 
 ## Stats
 
 ![0x5bfa's profile](https://github-readme-stats.vercel.app/api?username=0x5bfa&show_icons=true&bg_color=00000000)
-
 ![0x5bfa's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x5bfa&layout=compact&bg_color=00000000)
 
 ## FluentHub
