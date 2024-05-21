@@ -7,7 +7,7 @@
 ## About Me
 
 Hi there, I am 0x5BFA.
-I code every day for the fun of building something that excites me and I am proficient in C and C# and have developed a lot of software as you can see below. Currently, I'm the owner and a maintainer of [FluentHub](https://github.com/0x5bfa/FluentHub) and a software developer for [Files](https://github.com/files-community/files). But, in the future, I would like to become well versed in various fields, including the web and low-layer fields, and develop with wonderful people at a tech giant.
+I code every day for the fun of building something that excites me and I am proficient in C and C# and have developed a lot of software as you can see below. Currently, I'm the owner and a maintainer of [FluentHub](https://github.com/0x5bfa/FluentHub) and a software developer for [Files](https://github.com/files-community/files). In the future, I'd like to become well versed in various fields, including the web and low-layer fields, and work with wonderful people for a tech giant.
 
 - Discord: [0x5BFA](https://discordapp.com/users/926892915362521130)
 - Outlook: onein528@outlook.com
