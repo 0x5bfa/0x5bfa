@@ -56,6 +56,11 @@ I code every day for the fun of building something that excites me and I am prof
 
 </div></details>
 
+## [Files app](https://files-community/Files)
+
+<img width="1500" alt="image" src="https://github.com/0x5bfa/0x5bfa/assets/62196528/f9877e87-d45e-4179-a4d8-2094cc897ff4">
+
+
 ## [FluentHub](https://github.com/0x5bfa/FluentHub)
 
 ![image](https://github.com/0x5bfa/0x5bfa/assets/62196528/7e28de4c-f28c-43b6-9708-68a12c4bbfbc)
