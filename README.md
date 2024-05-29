@@ -52,14 +52,11 @@ I code every day for the fun of building something that excites me and I am prof
 
 </div></details>
 
-## [Files app](https://files-community/Files)
+## Apps I'm working on
 
-<img width="1500" alt="image" src="https://github.com/0x5bfa/0x5bfa/assets/62196528/f9877e87-d45e-4179-a4d8-2094cc897ff4">
-
-
-## [FluentHub](https://github.com/0x5bfa/FluentHub)
-
-![image](https://github.com/0x5bfa/0x5bfa/assets/62196528/7e28de4c-f28c-43b6-9708-68a12c4bbfbc)
+[Files](https://files-community/Files)|[FluentHub](https://github.com/0x5bfa/FluentHub)
+---|---
+![image](https://github.com/0x5bfa/0x5bfa/assets/62196528/67d34ca6-9ffd-4f26-8b28-97745763d32b)|![image](https://github.com/0x5bfa/0x5bfa/assets/62196528/7e28de4c-f28c-43b6-9708-68a12c4bbfbc)
 
 ## Stats
 
