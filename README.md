@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-The current level of my skill got even less than 1% where I should meet.
-
 - 🏫 Not yet in university
 - 💬 Speak Japanese and English
 - 👨‍💻 C and C# (Win32 API, .NET dev and WinUI fullstack dev)
