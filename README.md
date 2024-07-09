@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The current level of my skill is even less than 1% of what I should have.
+The current level of my skill is even less than 1% of what I should meet.
 
 - 🏫 Not yet in university
 - 💬 Speak Japanese and English
