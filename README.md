@@ -2,7 +2,7 @@
 
 - 🏫 Not yet in university
 - 💬 Can speak Japanese and English
-- 👨‍💻 Can write C and C# (Win32 API, .NET dev and WinUI fullstack dev)
+- 👨‍💻 C and C# (Win32 API, .NET dev and WinUI fullstack dev)
 - 🔭 Currently working on [Files app](https://files-community/Files)
 - 🌱 Currently learning the low layer Windows API and Windows OS
 - ⚡ Love to see how Windows OS is written
