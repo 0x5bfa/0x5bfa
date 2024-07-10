@@ -4,7 +4,7 @@
 - 💬 Speak Japanese and English *a bit*
 - 👨‍💻 C and C# (Win32 API, .NET dev and WinUI fullstack dev)
 - 🔭 Working on [Files app](https://files-community/Files)
-- 🌱 Learning the low layer Windows API and Windows kernel
+- 🌱 Learning the Windows kernel and low-layer Win32 API
 - 👯 Want to learn complier and UEFI development
 
 ![0x5bfa's profile](https://github-readme-stats.vercel.app/api?username=0x5bfa&show_icons=true&bg_color=00000000)
