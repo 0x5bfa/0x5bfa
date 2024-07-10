@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🏫 Not yet in university
-- 💬 Speak Japanese and English
+- 💬 Speak Japanese and English *a bit*
 - 👨‍💻 C and C# (Win32 API, .NET dev and WinUI fullstack dev)
 - 🔭 Working on [Files app](https://files-community/Files)
 - 🌱 Learning the low layer Windows API and Windows kernel
