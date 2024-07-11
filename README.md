@@ -2,7 +2,7 @@
 
 - 🏫 Not yet in university
 - 💬 Speak Japanese and English *a bit*
-- 👨‍💻 C and C# (Win32 API, .NET dev and WinUI fullstack dev)
+- 👨‍💻 C (I/O and console Win32 API) & C# (WinUI fullstack dev)
 - 🔭 Working on [Files app](https://files-community/Files)
 - 🌱 Learning the Windows kernel and low-layer Win32 API
 - 👯 Want to learn complier and UEFI development
