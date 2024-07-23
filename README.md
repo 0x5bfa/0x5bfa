@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I work on what I think I have to do every day to achieve my biggest goal in my life.
+<br/>
+Right now, working on my seoncd biggest goal irl, which must be done before that.
+
 - 🏫 Not yet in university
 - 💬 Speak Japanese and English *a bit*
 - 👨‍💻 C (file system and console Win32 API) & C# (WinUI fullstack dev)
