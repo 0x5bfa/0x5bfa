@@ -7,7 +7,7 @@ Right now, working on my seoncd biggest goal irl, which must be done before that
 - 🏫 Not yet in university
 - 💬 Speak Japanese and English *a bit*
 - 👨‍💻 C (file system and console Win32 API) & C# (WinUI fullstack dev)
-- 🔭 Working on [Files app](https://files-community/Files)
+- 🔭 Working on [Files app](https://files.community)
 - 🌱 Learning the Windows kernel and low-layer Win32 API
 - 👯 Want to learn kernel debugging and UEFI development
 
