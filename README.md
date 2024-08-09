@@ -2,7 +2,7 @@
 
 I work on what I think I have to do every day to achieve my biggest goal in my life.
 <br/>
-Right now, working on my seoncd biggest goal irl, which must be done before that.
+Right now, working on my second biggest goal irl, which must be done before that.
 
 - 🏫 Not yet in university
 - 💬 Speak Japanese and English *a bit*
