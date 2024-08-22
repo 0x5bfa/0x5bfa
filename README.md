@@ -12,5 +12,7 @@ Right now, working on my second biggest goal irl, which must be done before that
 - 🌱 Learning Windows low-level Win32 APIs for file system and shell
 - 👯 Want to learn kernel debugging and UEFI development
 
-![0x5bfa's profile](https://github-readme-stats.vercel.app/api?username=0x5bfa&show_icons=true&bg_color=00000000)
-![0x5bfa's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x5bfa&layout=compact&bg_color=00000000)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=0x5bfa&show_icons=true&bg_color=00000000" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x5bfa&layout=compact&bg_color=00000000" width="304" />
+</p>
