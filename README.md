@@ -7,9 +7,9 @@ Right now, working on my second biggest goal irl, which must be done before that
 - 🏫 Not yet in university
 - 💬 Speak Japanese and English *a bit*
 - 📝 C & C#
-- 👨‍💻 file system and console Win32 API & WinUI fullstack
+- 👨‍💻 Win32 API (filesystem and console) & WinUI
 - 🔭 Working on [Files app](https://files.community)
-- 🌱 Learning the Roslyn and Windows low-level Win32 APIs for file system and shell
+- 🌱 Learning Windows low-level Win32 APIs for file system and shell
 - 👯 Want to learn kernel debugging and UEFI development
 
 ![0x5bfa's profile](https://github-readme-stats.vercel.app/api?username=0x5bfa&show_icons=true&bg_color=00000000)
