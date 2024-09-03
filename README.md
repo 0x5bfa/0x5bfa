@@ -5,7 +5,7 @@ I work on what I think I have to do every day to achieve my biggest goal in my l
 Right now, working on my second biggest goal irl, which must be done before that.
 
 - 🏫 Not yet in university
-- 💬 Speak Japanese and English *a bit*
+- 💬 Speak Japanese
 - 📝 C & C#
 - 👨‍💻 Win32 (filesystem and console) & WinUI
 - 👯 Working on [Files app](https://files.community)
